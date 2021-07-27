@@ -6,7 +6,7 @@ What i did:
 
 To do 
 
--   Optimize Script'
+-   Optimize Script
 
 
 # Need some sort of help?
