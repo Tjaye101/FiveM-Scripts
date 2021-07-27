@@ -4,7 +4,7 @@ What i did:
 
 -   Merged all the scripts into one to save more space for recources
 
-Do not confuse this with all i only did the following
+Do not confuse this with all of the scripts, i only did the following
 -   CarryPeople
 -   IDsAboveHead
 -   PiggyBack
