@@ -1,8 +1,14 @@
 # FiveM-Scripts
-Compilation of my publicly released code
 
-Feel free to make improvements with PRs
+What i did:
+
+-   Merged all the scripts into one to save more space for recources
+
+To do 
+
+-   Optimize Script'
 
 
-My personal dev discord
-https://discord.gg/dnZTpUh
+# Need some sort of help?
+
+[Join my discord!](https://discord.gg/2v8XRxMVff)
