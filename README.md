@@ -10,10 +10,6 @@ Do not confuse this with all of the scripts, i only did the following
 -   PiggyBack
 -   TakeHostage
 
-To do 
-
--   Optimize Script
-
 
 # Need some sort of help?
 
